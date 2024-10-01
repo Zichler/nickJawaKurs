@@ -1,9 +1,9 @@
 package Lessen15;
 
 public class Cat {
-    String name;
-    String color;
-    int age;
+    public String name;
+    public String color;
+    public int age;
     // конструктор класса
     // специальный тип метода. Основная задача - установить начальные значения свойств обьем обьекта
     // основная задача - установить начальные значения свойств обьекта
